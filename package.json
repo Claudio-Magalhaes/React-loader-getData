@@ -1,6 +1,6 @@
 {
   "name": "react-loader-getdata",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "react-loader-getdata",
   "main": "dist/index.js",
   "files": [
@@ -12,11 +12,6 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1"
-  },
-  "peerDependencies": {
-    "axios": "0.20.x",
-    "react": "^17.x",
-    "react-dom": "^17.x"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
