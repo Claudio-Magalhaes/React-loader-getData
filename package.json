@@ -11,6 +11,7 @@
     "axios": "^0.20.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-loader-getdata": "0.0.2",
     "react-scripts": "4.0.1"
   },
   "peerDependencies": {
